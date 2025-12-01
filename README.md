@@ -43,9 +43,7 @@ Features
 3. Start **Apache** in XAMPP.
 4. Open browser and go to:
 http://localhost:8080
-🙋‍♀️ Developed by
 
-**Vaishnavi R.**  
 
 🙋‍♀️ Developed by
 
